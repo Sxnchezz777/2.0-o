@@ -1,0 +1,19 @@
+.size{
+    color: rgb(0, 0, 0);
+}
+.h2{
+    margin-left:15px;}
+
+ol{
+    color: white;
+}
+body{
+    background:rgb(87, 87, 87);
+    background-image: url(https://images.kinorium.com/movie/shot/119492/w1500_48873231.jpg);
+    background-repeat: no-repeat;
+    background-size:118%;
+}
+.video{
+    position: absolute;
+    margin-left: 300px;
+}
